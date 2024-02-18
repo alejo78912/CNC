@@ -5,6 +5,11 @@
 
 Este repositorio contiene el trabajo realizado para el Taller de Computación en la Nube (CNC).
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+</div>
+
 ## Estructura de Directorios
 
 ```
@@ -74,12 +79,5 @@ El comando `tree` ha sido instalado y ejecutado en el directorio Taller_1 para v
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
 
 Este README proporciona una descripción general del contenido y las acciones realizadas en el taller de CNC.

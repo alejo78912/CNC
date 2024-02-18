@@ -1,4 +1,3 @@
-Por supuesto, aquí tienes un README para tu repositorio en GitHub:
 
 ---
 
